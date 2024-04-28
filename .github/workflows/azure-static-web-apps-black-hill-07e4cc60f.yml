@@ -24,6 +24,7 @@ jobs:
         run: |
           cd ${{ github.workspace }}/${{ env.DEST_REPO }}
           git config --global --add safe.directory ${{ github.workspace }}
+          git config --global --add safe.directory /github/workspace
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub actions"
       
