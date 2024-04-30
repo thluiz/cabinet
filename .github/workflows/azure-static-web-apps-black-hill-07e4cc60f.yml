@@ -42,9 +42,6 @@ jobs:
           hugo-version: '0.96.0'
           extended: true
 
-      - name: update Quartz
-        run: hugo-obsidian -input=content -output=assets/indices -index -root=.
-
       - name: Build
         run: hugo --minify
 
