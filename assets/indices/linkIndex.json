@@ -1,564 +1,188 @@
 {
   "index": {
     "links": {
-      "/": [
+      "/Inbox/2023/J.-Carlos-Rold%C3%A1n-Passwordless-a-different-kind-of-hell": [
         {
-          "source": "/",
-          "target": "/setup/setup",
-          "text": "Setup your own Amethyst instance"
-        },
-        {
-          "source": "/",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
-        },
-        {
-          "source": "/",
-          "target": "/tags/setup",
-          "text": "setup-related notes"
-        },
-        {
-          "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
+          "source": "/Inbox/2023/J.-Carlos-Rold%C3%A1n-Passwordless-a-different-kind-of-hell",
+          "target": "/whatsapp//sendtextPasswordless-a-different-kind-of-hell-https//jcarlosroldan.com/post/315/",
+          "text": ""
         }
       ],
-      "/features/languages": [
+      "/Inbox/2024/01/Dont-Underestimate-the-Power-of-a-Walk": [
         {
-          "source": "/features/languages",
-          "target": "/setup/config",
-          "text": "config"
+          "source": "/Inbox/2024/01/Dont-Underestimate-the-Power-of-a-Walk",
+          "target": "/htthttps//pubmed.ncbi.nlm.nih.gov/20890449/",
+          "text": "new connections"
         }
       ],
-      "/setup/config": [
+      "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About": [
         {
-          "source": "/setup/config",
-          "target": "/features/language",
-          "text": "Chinese, Japanese, and Korean support"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog",
+          "text": "Blog"
         },
         {
-          "source": "/setup/config",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/about/",
+          "text": "About"
+        },
+        {
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/",
+          "text": "Portfolio"
+        },
+        {
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/shared-future/",
+          "text": "Shared Future"
+        },
+        {
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/sos/",
+          "text": "SOS"
+        },
+        {
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/investorportal/",
+          "text": "LP"
+        },
+        {
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog/",
+          "text": "Blog"
         }
       ],
-      "/setup/editing": [
+      "/Inbox/2024/04/A-ess%C3%AAncia-da-intelig%C3%AAncia-%C3%A9-ver-o-futuro-e-n%C3%A3o-saber-das-coisas-as-previs%C3%B5es-do-f%C3%ADsico-vision%C3%A1rio-Michio-Kaku": [
         {
-          "source": "/setup/editing",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/hosting": [
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/custom-Domain",
-          "text": "Learn how to set it up with Amethyst"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/ignore-notes",
-          "text": "Excluding pages from being published"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/obsidian": [
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/setup",
-          "text": "setup"
-        },
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        }
-      ],
-      "/setup/preview-changes": [
-        {
-          "source": "/setup/preview-changes",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        }
-      ],
-      "/setup/setup": [
-        {
-          "source": "/setup/setup",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/troubleshooting": [
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/features/latex",
-          "text": "LaTeX"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/ignore-notes",
-          "text": "excluding pages from being published"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/obsidian",
-          "text": "Obsidian"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "the 'how to edit' guide"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "the hosting guide"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/config",
-          "text": "customization guide"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "local editing"
+          "source": "/Inbox/2024/04/A-ess%C3%AAncia-da-intelig%C3%AAncia-%C3%A9-ver-o-futuro-e-n%C3%A3o-saber-das-coisas-as-previs%C3%B5es-do-f%C3%ADsico-vision%C3%A1rio-Michio-Kaku",
+          "target": "/windows-feedback//contextid509",
+          "text": "Comentários"
         }
       ]
     },
     "backlinks": {
-      "/features/language": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/": [
         {
-          "source": "/setup/config",
-          "target": "/features/language",
-          "text": "Chinese, Japanese, and Korean support"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/",
+          "text": "Portfolio"
         }
       ],
-      "/features/latex": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/about/": [
         {
-          "source": "/setup/troubleshooting",
-          "target": "/features/latex",
-          "text": "LaTeX"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/about/",
+          "text": "About"
         }
       ],
-      "/setup/config": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog": [
         {
-          "source": "/",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/features/languages",
-          "target": "/setup/config",
-          "text": "config"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/config",
-          "text": "customization guide"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog",
+          "text": "Blog"
         }
       ],
-      "/setup/custom-Domain": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog/": [
         {
-          "source": "/setup/hosting",
-          "target": "/setup/custom-Domain",
-          "text": "Learn how to set it up with Amethyst"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog/",
+          "text": "Blog"
         }
       ],
-      "/setup/editing": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/investorportal/": [
         {
-          "source": "/",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "the 'how to edit' guide"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "local editing"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/investorportal/",
+          "text": "LP"
         }
       ],
-      "/setup/hosting": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/shared-future/": [
         {
-          "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/preview-changes",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "the hosting guide"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/shared-future/",
+          "text": "Shared Future"
         }
       ],
-      "/setup/ignore-notes": [
+      "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/sos/": [
         {
-          "source": "/setup/hosting",
-          "target": "/setup/ignore-notes",
-          "text": "Excluding pages from being published"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/ignore-notes",
-          "text": "excluding pages from being published"
+          "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+          "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/sos/",
+          "text": "SOS"
         }
       ],
-      "/setup/obsidian": [
+      "/htthttps//pubmed.ncbi.nlm.nih.gov/20890449/": [
         {
-          "source": "/",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/obsidian",
-          "text": "Obsidian"
+          "source": "/Inbox/2024/01/Dont-Underestimate-the-Power-of-a-Walk",
+          "target": "/htthttps//pubmed.ncbi.nlm.nih.gov/20890449/",
+          "text": "new connections"
         }
       ],
-      "/setup/preview-changes": [
+      "/whatsapp//sendtextPasswordless-a-different-kind-of-hell-https//jcarlosroldan.com/post/315/": [
         {
-          "source": "/",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
+          "source": "/Inbox/2023/J.-Carlos-Rold%C3%A1n-Passwordless-a-different-kind-of-hell",
+          "target": "/whatsapp//sendtextPasswordless-a-different-kind-of-hell-https//jcarlosroldan.com/post/315/",
+          "text": ""
         }
       ],
-      "/setup/setup": [
+      "/windows-feedback//contextid509": [
         {
-          "source": "/",
-          "target": "/setup/setup",
-          "text": "Setup your own Amethyst instance"
-        },
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/setup",
-          "text": "setup"
-        }
-      ],
-      "/setup/troubleshooting": [
-        {
-          "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
-        },
-        {
-          "source": "/setup/config",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/updating": [
-        {
-          "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
-        }
-      ],
-      "/tags/setup": [
-        {
-          "source": "/",
-          "target": "/tags/setup",
-          "text": "setup-related notes"
+          "source": "/Inbox/2024/04/A-ess%C3%AAncia-da-intelig%C3%AAncia-%C3%A9-ver-o-futuro-e-n%C3%A3o-saber-das-coisas-as-previs%C3%B5es-do-f%C3%ADsico-vision%C3%A1rio-Michio-Kaku",
+          "target": "/windows-feedback//contextid509",
+          "text": "Comentários"
         }
       ]
     }
   },
   "links": [
     {
-      "source": "/",
-      "target": "/setup/setup",
-      "text": "Setup your own Amethyst instance"
+      "source": "/Inbox/2023/J.-Carlos-Rold%C3%A1n-Passwordless-a-different-kind-of-hell",
+      "target": "/whatsapp//sendtextPasswordless-a-different-kind-of-hell-https//jcarlosroldan.com/post/315/",
+      "text": ""
     },
     {
-      "source": "/",
-      "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
+      "source": "/Inbox/2024/01/Dont-Underestimate-the-Power-of-a-Walk",
+      "target": "/htthttps//pubmed.ncbi.nlm.nih.gov/20890449/",
+      "text": "new connections"
     },
     {
-      "source": "/",
-      "target": "/setup/obsidian",
-      "text": "How to setup your Obsidian Vault to work with Amethyst"
+      "source": "/Inbox/2024/04/A-ess%C3%AAncia-da-intelig%C3%AAncia-%C3%A9-ver-o-futuro-e-n%C3%A3o-saber-das-coisas-as-previs%C3%B5es-do-f%C3%ADsico-vision%C3%A1rio-Michio-Kaku",
+      "target": "/windows-feedback//contextid509",
+      "text": "Comentários"
     },
     {
-      "source": "/",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog",
+      "text": "Blog"
     },
     {
-      "source": "/",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/about/",
+      "text": "About"
     },
     {
-      "source": "/",
-      "target": "/setup/config",
-      "text": "Customizing Amethyst"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/",
+      "text": "Portfolio"
     },
     {
-      "source": "/",
-      "target": "/setup/updating",
-      "text": "update"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/shared-future/",
+      "text": "Shared Future"
     },
     {
-      "source": "/",
-      "target": "/tags/setup",
-      "text": "setup-related notes"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/sos/",
+      "text": "SOS"
     },
     {
-      "source": "/",
-      "target": "/setup/troubleshooting",
-      "text": "Troubleshooting and FAQ"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/investorportal/",
+      "text": "LP"
     },
     {
-      "source": "/features/languages",
-      "target": "/setup/config",
-      "text": "config"
-    },
-    {
-      "source": "/setup/config",
-      "target": "/features/language",
-      "text": "Chinese, Japanese, and Korean support"
-    },
-    {
-      "source": "/setup/config",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/obsidian",
-      "text": "How to setup your Obsidian Vault to work with Amethyst"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/custom-Domain",
-      "text": "Learn how to set it up with Amethyst"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/ignore-notes",
-      "text": "Excluding pages from being published"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/config",
-      "text": "Customizing Amethyst"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/obsidian",
-      "target": "/setup/setup",
-      "text": "setup"
-    },
-    {
-      "source": "/setup/obsidian",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
-    },
-    {
-      "source": "/setup/preview-changes",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/features/latex",
-      "text": "LaTeX"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "hosting"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/ignore-notes",
-      "text": "excluding pages from being published"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "hosting"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/obsidian",
-      "text": "Obsidian"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/editing",
-      "text": "the 'how to edit' guide"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "the hosting guide"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/config",
-      "text": "customization guide"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/editing",
-      "text": "local editing"
+      "source": "/Inbox/2024/04/A-Few-Things-Im-Pretty-Sure-About",
+      "target": "/chrome-extension//pcmpcfapbekmbjjkdalcgopdkipoggdi/blog/",
+      "text": "Blog"
     }
   ]
 }
